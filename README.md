@@ -100,14 +100,6 @@ Processamento em Java
 
 ---
 
-## Possíveis Evoluções
-
-- Implementação de interface gráfica (JavaFX ou Swing)
-- Tratamento avançado de exceções
-- Logs estruturados
-- Testes automatizados (JUnit)
-- Integração com aplicações desktop ou web
-
 ## Observações
 
 - A API Python deve estar ativa antes da execução do cliente Java.
